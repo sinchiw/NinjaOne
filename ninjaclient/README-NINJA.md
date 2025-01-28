@@ -28,9 +28,11 @@ This repository contains both a **client** and a **server** application that wor
 
 3. **Install Dependencies for the Server**  
    - Navigate to the `devicesTask_serverApp` directory:
+     ```bash
      cd devicesTask_serverApp
      ```
    - Install the necessary packages:
+     ```bash
      npm install
      ```
 
@@ -40,17 +42,18 @@ This repository contains both a **client** and a **server** application that wor
 
 1. **Start the Server**  
    - From the `devicesTask_serverApp` directory, run:
+     ```bash
      npm start
-
+     ```
    - This command will spin up the backend server.
 
 2. **Start the Client**  
    - In a separate terminal, return to the `ninjaclient` directory:
+     ```bash
      cd ninjaclient
      npm start
-
+     ```
    - This command will open a browser window or tab (typically at [http://localhost:3000](http://localhost:3000)) where you should see the list of devices on initial load.
-
 ---
 
 ## Application Functionality
