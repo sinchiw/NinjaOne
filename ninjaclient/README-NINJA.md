@@ -88,7 +88,7 @@ This repository contains both a **client** and a **server** application that wor
    - Further break down components if necessary, and potentially use a state management library (e.g., Redux) to handle complex data or global state more effectively.
 
 4. **Time Constraints**  
-   - I was confused about three functionalities involving filtering and using a refresh button, but the recruiter took **five days** to respond. By the time I received clarification, I had to update the code and handle other tasks. As a result, there is still some room for more robust functionality and polish, pending further requirements or resources.
+   - I was confused about three functionalities involving filtering and using a refresh button, but there was some communication delay. By the time I received clarification, I had to update the code and handle other tasks. As a result, there is still some room for more robust functionality and polish, pending further requirements or resources.
 
 ---
 
