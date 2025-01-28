@@ -14,13 +14,15 @@ This repository contains both a **client** and a **server** application that wor
 ## Installation & Setup
 
 1. **Download this Repository**  
-   - Extract the zip file
+   - Clone the project or download
 
 2. **Install Dependencies for the Client**  
    - Navigate to the `ninjaclient` directory:
+     ```bash
      cd ninjaclient
      ```
    - Install the necessary packages:
+     ```bash
      npm install
      ```
 
