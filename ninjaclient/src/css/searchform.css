@@ -1,0 +1,25 @@
+.device-search-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+  }
+
+  .device-list-filters-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 790px;
+  }
+  .resfresh-button{
+    all: unset;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .refresh-icon {
+    width: 16px;
+    height: 16px;
+    color: white;
+  }

@@ -1,0 +1,26 @@
+.device-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.device-list-header-title-text{
+  font-weight: 500;
+  font-size: 20px;
+  color: #211F33;
+
+}
+
+.add-device {
+  background-color: #337ab7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+  gap: 8px;
+}

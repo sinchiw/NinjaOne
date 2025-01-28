@@ -1,0 +1,9 @@
+.layout-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container {
+    flex: 1;
+    padding: 10px 20px;
+}
