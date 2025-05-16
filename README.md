@@ -75,21 +75,6 @@ This repository contains both a **client** and a **server** application that wor
 - **Delete**: Remove the device from the list.
 
 ---
-
-## Possible Improvements
-
-1. **API Directory**  
-   - Create a dedicated directory to organize all API requests (GET, POST, PUT, DELETE, etc.) for better maintainability.
-
-2. **Testing**  
-   - Implement unit and integration tests for both components and API logic to ensure reliability and prevent regressions.
-
-3. **Enhanced Component Architecture & State Management**  
-   - Further break down components if necessary, and potentially use a state management library (e.g., Redux) to handle complex data or global state more effectively.
-
-4. **Time Constraints**  
-   - I was confused about three functionalities involving filtering and using a refresh button, but there was a communication delay. By the time I received clarification, I had to update the code and handle other tasks. As a result, there is still some room for more robust functionality and polish, pending further requirements or resources.
-
----
+<img width="902" alt="Screenshot 2025-05-15 at 10 38 20 PM" src="https://github.com/user-attachments/assets/020c597d-caf3-4498-af0b-3d795b511296" />
 
 **Thank you for checking out this project!**  
